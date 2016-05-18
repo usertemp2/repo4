@@ -6,6 +6,7 @@ public class SamplePOJO2
    
    //
    //
+   //
    public String getName()
    {
       return name;
