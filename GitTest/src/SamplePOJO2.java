@@ -4,7 +4,7 @@ public class SamplePOJO2
    private String name;
 
    
-   
+   //
    //
    public String getName()
    {
