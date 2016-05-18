@@ -8,10 +8,10 @@ public class SamplePOJO2
    //
    
    //
-*/   public String getName()
+*/   /*public String getName()
    {
       return name;
-   }
+   }*/
 
    public void setName(String name)
    {
